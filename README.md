@@ -1,4 +1,4 @@
-<h1>What is it?</h1>
+<h1>What is this?</h1>
 A simple website made with the bootstrap framework and other libraries like "Scroll Reveal" and "Google Fonts".
 
 <h1>Preview:</h1>
